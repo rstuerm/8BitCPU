@@ -7,6 +7,9 @@ Schematics and an overview of the PCB are also available as PDF files in the out
 In the future, this page will be updated to include the control ROM defintitions used by the CPU, as well as the programs which allow a microcontroller to program both the control ROM and the program ROM.
 
 
+
+
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
