@@ -1,6 +1,6 @@
 # 8BitCPU
 
-This is the KiCad source file for my 8-bit CPU project. 
+This is the KiCad source file for my 8-bit CPU project, detailed at www.stuermer.ca/8bitcpu.html. 
 
 Schematics and an overview of the PCB are also available as PDF files in the output folder.
 
